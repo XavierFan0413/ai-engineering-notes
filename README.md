@@ -4,9 +4,12 @@ Short technical notes on AI engineering, RAG systems, cloud deployment, authenti
 
 These notes are written from a student/developer perspective while learning how to turn AI prototypes into deployable products.
 
+## Notes
+
+- [Turning an AI Prototype Into a Deployable Product](notes/turning-ai-prototype-into-product.md)
+
 ## Planned notes
 
-- Turning an AI prototype into a deployable product
 - Practical lessons from RAG, guardrails, authentication, and cloud deployment
 - Notes on AI safety and governance evidence
 - Debugging production signup email flows with Cognito and SES
